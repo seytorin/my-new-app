@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\0ba82a9b57ba366a2242c2a5c45c0466d6b71406\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca5191096a7aa012cda665bf1353139ce5266d34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\ab53a9e93979c1f6b624dccd16f12337a45580a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45b509dc899a9214acb973f29cc7da351959e9c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\32045a18a140a18569d3a00109256e664e52337b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cda0eb92fee0a60279508183a492918cb193f2b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.0_a509035662d02b1167feed9431476691509584f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\2ca5df92eb87617706467bd9026e1a87ff212777\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d5f199387d0de4b53b326de3ab3ca72e8b63ee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\9a75c059faf2e6271ba293b81a7adf874dcbbff8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf10fda6ca5d2f30085efeb175e9a99ef6648f5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_9d6158b9a49dd571d9426946201f9691fa2e3cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\9bb429ea3585d12c6d5b905664a93bcda3257833\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09e752a0df309bf646b3cb14ceb54c718549d8b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\cb13471ac75eaff5064dbdb69d1cc3703f997d6d\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\infer-annotations-4.0_0fe923fb19d49bcc6cef3545cea13dc9c646820f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_b407afbf99c383f42ff1a3909e23658f49321ae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\34c5719889db9c6114101fa8a0de4d57e1aadfef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4cf34598f2fcebe38a27a6e564e546abddc13f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\cb13471ac75eaff5064dbdb69d1cc3703f997d6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0efdcb5e78320eb18b10bb360410e7521c996e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\a57518abb8014a0556980c5bdd4cb8b7ac00ec42\output\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_ab675123c351c2a08191617b14c3bd7dce33fd6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_c0b881adadbedc52aa3c59e2a97105ba67ca5f2f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-urlconnection-3.6.0_01bb111e41d2258cb694c10ccca94515f57818ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\staticlayout-proxy-1.0_7e8f00c7230299e6816726213a99086ae77ab0ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_be81bcc82c64132c3790f759e15bb6c8fb9075bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_aadf92b76435003266e6b4a2bd2a6a9699a64ed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\b27e54626a9d0065da0ca14410bb99cfc8f165b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca481cd47e8f1cf370cf6b33953bb417f65e4069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\a57518abb8014a0556980c5bdd4cb8b7ac00ec42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77d1eb8e0aac409b937f166ed38885e2a68c5157\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\.android\build-cache\f9289f069824255edd1e95a1c9aa6a2e95f1e610\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7ddd6c8f57e530014eedb745d41b135f44a575d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2a7394a000d39036760db7d7f46cdd83925bb86">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_94bbd56ea61b5fe01a3419221d68f7629e38ce99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Sharif\Documents\my-new-app\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d4c5441ad541b71debbf6feab42e645cfb90c7a0\classes.dex" />
+    </item>
+
+</items>
