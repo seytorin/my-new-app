@@ -1,12 +1,14 @@
 import React from 'react';
-import { View, Text, StyleSheet, TouchableWithoutFeedback } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, Image } from 'react-native';
 
 const listItem = (props) => (
-    <TouchableWithoutFeedback  onPress={props.onItemPressed}>
-    <View style={styles.listItem}>
-        <Text>{props.placeName}</Text>
-    </View>
-    </TouchableWithoutFeedback>
+    // Touchablewithoutfeedback allows onpress events with the View element.  This can be used to make buttons
+    <TouchableOpacity  onPress={props.onItemPressed}>
+        <View style={styles.listItem}>
+            <Image source={props.placeImage} style={styles.placeImage} />
+            <Text>{props.placeName}</Text>
+        </View>
+    </TouchableOpacity>
 );
 
 const styles = StyleSheet.create({
@@ -14,7 +16,14 @@ const styles = StyleSheet.create({
         width: "100%",
         marginBottom: 5,
         padding: 10,
-        backgroundColor: "#eee"
+        backgroundColor: "#eee",
+        flexDirection: "row",
+        alignItems: "center"
+    },
+    placeImage: {
+        marginRight: 8,
+        height: 80,
+        width: 80
     }
 });
 
